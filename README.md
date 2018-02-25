@@ -1,5 +1,14 @@
 
-  jquery.xmlns.js:  xml-namespace selector support for jQuery
+Status: Unmaintained
+====================
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+I am [no longer actively maintaining this project](https://rfk.id.au/blog/entry/archiving-open-source-projects/).
+
+
+jquery.xmlns.js:  xml-namespace selector support for jQuery
+===========================================================
 
 This plugin modifies the jQuery tag and attribute selectors to
 support optional namespace specifiers as defined in CSS 3:
